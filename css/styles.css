@@ -1,0 +1,28 @@
+.bg-green {
+    background: #8AFD78 !important;
+}
+
+.btn-green {
+    background: #8AFD78 !important;
+}
+
+.btn-green:hover {
+    background: #83f07f !important;
+}
+
+.bg-purple {
+    background: #6F73FB !important;
+}
+
+.btn-purple {
+    background: #6F73FB !important;
+}
+
+.btn-purple:hover {
+    background: #4e50fc !important;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
